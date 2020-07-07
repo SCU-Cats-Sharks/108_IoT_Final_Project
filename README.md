@@ -1,4 +1,5 @@
 # 八哥賣亂(Starling don't make trouble)
+
 ## About Project
 課程：物聯網導論
 簡介：使用Micro:bit製作趕鳥器
@@ -11,4 +12,4 @@ Description: Use Micro:bit to make bird repellent.
 
 ## Introduction
 目的：趕走八哥或者防範冰箱小偷
-
+技術: AI2、Micro:bit
