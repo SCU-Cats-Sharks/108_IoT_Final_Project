@@ -13,3 +13,4 @@ Description: Use Micro:bit to make bird repellent.
 * Eva Lin - [@evaneversaydie](https://github.com/evaneversaydie)
 
 ## Introduction
+目的：趕走八哥或者防範冰箱小偷
