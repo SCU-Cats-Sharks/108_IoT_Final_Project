@@ -12,4 +12,4 @@ Description: Use Micro:bit to make bird repellent.
 
 ## Introduction
 目的：趕走八哥或者防範冰箱小偷
-技術: AI2、Micro:bit
+<br>使用程式與設備: AI2、Micro:bit
